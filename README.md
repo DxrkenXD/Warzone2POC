@@ -6,6 +6,8 @@ This is a POC | This Does NOT Work
 
 If you want this to work, you need to work on it. Im simply uploading it here to show it can be done.
 
+(I may actually update and work on this myself - ***IF IT GETS ENOUGH HYPE AND A LOT OF PEOPLE WANT ME TO***)
+
 **What needs to be done?**
 --------------------------
 - Update Offsets
