@@ -13,7 +13,7 @@ If you want this to work, you need to work on it. Im simply uploading it here to
 
 ^^^ If you can do that above, it will work. If you can't don't complain to me
 
-Join my discord if you want / have questions << New Discord, Old Got Termed
+Join my discord (https://pornhub.com) if you want / have questions << New Discord, Old Got Termed
 
 I am ***SELLING*** working and up to date source code if you want that.
 
